@@ -66,6 +66,9 @@ Place the `AviationData.csv` and `USStates_Codes.csv` files in the `project/` di
 * **Heatmap**: Correlations of number of engines to the occurrence of accidents.
 ------
 
+## Link to visualizations on Tableaus
+Here is the link: `Tableau:`(https://public.tableau.com/authoring/phase1project_17394184207090/Sheet1/Purpose%20of%20flight%20to%20accidents#1)
+
 -----
 
 ## Contact 
@@ -73,3 +76,5 @@ Email: `kamirustephen@gmail.com`
 LinkedIn: `Stephen Kamiru`: (https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 -----
+
+
